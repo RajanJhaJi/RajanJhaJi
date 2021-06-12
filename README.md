@@ -12,7 +12,6 @@ What Can I Offer 🤙:)
 
 >> Responsive Website that will look good on any device.
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajanJha)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Languages and Tools that is use :)
 
