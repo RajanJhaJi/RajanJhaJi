@@ -2,6 +2,8 @@
 
 My name is Rajan, and I am a Professional MERN stack Developer & Web Designer. I help businesses and entrepreneurs to grow and Increase their Revenues by making Lead generating website for them.
 
+![](https://media-exp1.licdn.com/dms/image/C4E16AQHc9ADpL3V2VA/profile-displaybackgroundimage-shrink_200_800/0/1623479093954?e=1628726400&v=beta&t=L9DwnNJQ5CjFtiLwVCxd2zz9GRN0TNYZnWk4aWXcDDU)
+
 What Can I Offer 🤙:)
 
 >> Websites: from Design, Development to Deployment (One stop solution for you).
@@ -29,3 +31,7 @@ Languages and Tools that is use :)
 My Github Stats :)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RajanJhaJi&show_icons=true&theme=gotham" alt="RajanJha" />
+  
+
+
+
