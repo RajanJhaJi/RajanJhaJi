@@ -2,6 +2,16 @@
 
 My name is Rajan, and I am a Professional MERN stack Developer & Web Designer. I help businesses and entrepreneurs to grow and Increase their Revenues by making Lead generating website for them.
 
+What Can I Offer 🤙:)
+
+>> Websites: from Design, Development to Deployment (One stop solution for you).
+
+>> Stunning Portfolio and Landing Pages.
+
+>> Fast, Secure & Scalable Websites.
+
+>> Responsive Website that will look good on any device.
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajanJha)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Languages and Tools that is use :)
